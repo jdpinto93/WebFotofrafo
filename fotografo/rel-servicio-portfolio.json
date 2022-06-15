@@ -1,0 +1,1 @@
+{"post_types":[],"taxonomies":[],"listings":[],"meta_boxes":[],"relations":{"item-1":{"name":"Servicio y Portfolio","post_type_1":"servicio","post_type_2":"portfolio","type":"many_to_many","post_type_1_control":"1","post_type_2_control":"1","parent_relation":"","id":"item-1"}},"options_pages":[],"content":null}
